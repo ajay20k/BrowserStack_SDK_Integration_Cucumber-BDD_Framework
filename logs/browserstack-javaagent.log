@@ -1,0 +1,36 @@
+16:39:49.934 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.12.1
+16:39:49.937 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:39:50.193 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : E:\Intellij Project\BrowserStackSDKIntegration_BrowserStackSite\BrowserStackDemoLogin\browserstack.yml
+16:39:50.260 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:39:50.565 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+16:39:56.207 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:33.750 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/thpmdaxwt3ud43gaqifmkposlu5ujnwbl14sktcw to view build report, insights, and many more debugging information all at one place!
+
+16:40:34.094 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a7f4659bcf4418e42b971b49de6d03484b5d189d
+16:40:34.094 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:14:05.425 [main] INFO  c.b.config.BrowserStackConfig - WARN
+20:14:30.002 [main] INFO  c.b.config.BrowserStackConfig - WARN
+20:37:35.001 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.12.1
+20:37:35.004 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+20:37:35.226 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : E:\Intellij Project\BrowserStackSDKIntegration_BrowserStackSite\BrowserStackDemoLogin\browserstack.yml
+20:37:35.283 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:37:35.566 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+20:37:41.327 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:38:56.337 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/o0ng14lwr5zmgjt8goob0falm74mddx3qaxpw89g to view build report, insights, and many more debugging information all at one place!
+
+20:38:56.668 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/40239e7459effe0091fef2305f7a29d88ba40cc6
+20:38:56.668 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:48:31.133 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:49:25.572 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:51:23.171 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.12.1
+20:51:23.174 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+20:51:23.442 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : E:\Intellij Project\BrowserStackSDKIntegration_BrowserStackSite\BrowserStackDemoLogin\browserstack.yml
+20:51:23.506 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:51:23.823 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+20:51:28.875 [main] INFO  c.b.config.BrowserStackConfig - INFO
+20:52:43.739 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/4n0asimeht7yi4w8olonsriv53x8vkzcjgyt3wes to view build report, insights, and many more debugging information all at one place!
+
+20:52:44.086 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/d8ed02b98eec258b2065081b4dcbe5f5216a110a
+20:52:44.086 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+21:04:31.749 [main] INFO  c.b.config.BrowserStackConfig - WARN
+21:04:48.479 [main] INFO  c.b.config.BrowserStackConfig - WARN
